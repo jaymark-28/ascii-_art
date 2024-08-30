@@ -1,1 +1,1 @@
-# ascii-_art
+# ascii_art project
